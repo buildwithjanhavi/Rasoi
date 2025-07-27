@@ -71,15 +71,14 @@ We integrated **RasoiBot** to provide:
 ---
 
 ## 📸 Screenshots  
-> Add actual screenshots in your `assets/images/` folder and reference them below!
-## Overview 
-https://github.com/buildwithjanhavi/RasoiSwaad/blob/main/assest2/rasoisawwd1.png
+## Overview
+![Main Overview](https://github.com/buildwithjanhavi/RasoiSwaad/blob/main/assest2/rasoisawwd1.png)
 
-## Vendor Dashboard 
-https://github.com/buildwithjanhavi/RasoiSwaad/blob/main/assest2/r2.png
+### Vendor Dashboard
+![Vendor dashboard](https://github.com/buildwithjanhavi/RasoiSwaad/blob/main/assest2/r2.png)
 
-## Supplier Dashboard 
-https://github.com/buildwithjanhavi/RasoiSwaad/blob/main/assest2/r3.png
+### Supplier Dashboard
+![Supplier Dashboard](https://github.com/buildwithjanhavi/RasoiSwaad/blob/main/assest2/r3.png)
 
 ---
 
