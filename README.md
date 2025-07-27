@@ -60,6 +60,13 @@ Rasoi/
 ├── js/
 │   └── main.js
 ```
+## AI Chatbot (RasoiBot)
+
+We integrated **RasoiBot** to provide:
+
+- Instant responses to vendor/supplier queries  
+- Guidance on price updates, complaints, and bulk orders  
+- An engaging, human-like experience
 
 ---
 
