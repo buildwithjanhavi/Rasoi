@@ -11,7 +11,7 @@ _Developed for Tutedude's Web Development Hackathon 1.0_
 https://rasoi-red.vercel.app/
 
 ## Demo Video 
-
+https://www.loom.com/share/b991b35dbb814e3ca4e8e8a78a91f280?sid=b3f85b54-7d2f-469e-a311-1280a369409b
 
 ---
 
@@ -72,10 +72,14 @@ We integrated **RasoiBot** to provide:
 
 ## 📸 Screenshots  
 > Add actual screenshots in your `assets/images/` folder and reference them below!
+## Overview 
+https://github.com/buildwithjanhavi/RasoiSwaad/blob/main/assest2/rasoisawwd1.png
 
-| Vendor Dashboard | Price Comparison | RasoiBot Chat |
-|------------------|------------------|---------------|
-| *(screenshot)*   | *(screenshot)*   | *(screenshot)* |
+## Vendor Dashboard 
+https://github.com/buildwithjanhavi/RasoiSwaad/blob/main/assest2/r2.png
+
+## Supplier Dashboard 
+https://github.com/buildwithjanhavi/RasoiSwaad/blob/main/assest2/r3.png
 
 ---
 
@@ -91,7 +95,7 @@ We integrated **RasoiBot** to provide:
 
 ##  Built By  
 **Janhavi Dubey**  
-- 🌐 [GitHub](https://github.com/buildwithjanhavi) | [LinkedIn](https://linkedin.com/in/janhavi-dubey)
+- 🌐 [GitHub](https://github.com/buildwithjanhavi) | [LinkedIn](https://www.linkedin.com/in/janhavi-dubey-3a3365362/)
 
 ---
 
